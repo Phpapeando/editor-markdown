@@ -11,10 +11,11 @@ Este é um editor de documento em Markdown.
 
 ## Como usar
 
-1. Digite seu texto no editor à esquerda
-2. Veja o resultado formatado à direita
-3. Use os botões na barra de ferramentas para formatar seu texto
-4. Exporte para PDF quando estiver pronto
+1. Abra o arquivo index.html
+2. Digite seu texto no editor à esquerda
+3. Veja o resultado formatado à direita
+4. Use os botões na barra de ferramentas para formatar seu texto
+5. Exporte para PDF quando estiver pronto
 
 > Dica: Você pode usar a sintaxe Markdown para criar documentos formatados.
 
